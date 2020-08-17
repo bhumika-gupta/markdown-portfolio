@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Bhumika's portfolio
+#### Still a beginner :) Stay tuned
+###### Have fun exploring!!
